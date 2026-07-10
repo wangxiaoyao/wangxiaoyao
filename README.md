@@ -4,8 +4,7 @@
 
 ### AI Application & Full-Stack Engineer
 
-Building practical AI products with
-**React · Next.js · TypeScript · Node.js · LLM · RAG · AI Agents**
+From mine own trials I gather wisdom, and share such light as may guide another soul.
 
 [![X](https://img.shields.io/badge/X-@wangxiaoyao77-000000?style=flat-square&logo=x)](https://x.com/wangxiaoyao77)
 [![GitHub](https://img.shields.io/badge/GitHub-wangxiaoyao-181717?style=flat-square&logo=github)](https://github.com/wangxiaoyao)
@@ -70,7 +69,7 @@ I enjoy turning complex technical ideas into products that are understandable, r
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
 </p>
 
----
+<!-- ---
 
 ## Featured Projects
 
@@ -156,14 +155,4 @@ const xiaoyao = {
 
 </div>
 
----
-
-## Connect
-
-I'm interested in AI applications, frontend engineering, developer tools and financial technology.
-
-- X: [@wangxiaoyao77](https://x.com/wangxiaoyao77)
-- GitHub: [@wangxiaoyao](https://github.com/wangxiaoyao)
-
-> From mine own trials I gather wisdom,
-> and share such light as may guide another soul.
+--- -->
